@@ -21,3 +21,14 @@ The default page shows a Search Component with an input field, type a search key
 ## Author
 
 **Subroto Mukherjee**
+
+## Screenshots
+
+<img src="screenshots/search-page.png" alt="Search Page">
+Screenshot of Search Page including the Search List
+
+<img src="screenshots/answer-page.png" alt="Search Page">
+Screenshot of Answer Page including the Question Box showing the relevant questions
+
+<img src="screenshots/accepted-answer.png" alt="Search Page">
+Screenshot showing the accepted answer as highlighted
