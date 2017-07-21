@@ -10,7 +10,6 @@ import { applyMiddleware, createStore } from 'redux';
 import ReduxPromise from 'redux-promise';
 import { Provider } from 'react-redux';
 
-// import promiseMiddleware from '../common/middlewares/PromiseMiddleware';
 import rootReducer from '../reducers/index';
 import fetchComponentData from '../common/utils/fetchComponentData';
 

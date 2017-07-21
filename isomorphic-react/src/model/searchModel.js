@@ -1,7 +1,7 @@
 const searchModel = {
   cacheSearchResults: function(data) {
     const json = JSON.stringify(data);
-    console.info(json);
+    //console.info(json);
     localStorage.setItem('data', json);
   },
 
